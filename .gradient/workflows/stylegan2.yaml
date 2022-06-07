@@ -15,6 +15,7 @@
       only: main
 
 jobs:
+
   cloneStyleGAN2Repo:
     resources:
       instance-type: C4
