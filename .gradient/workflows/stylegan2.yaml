@@ -16,6 +16,8 @@
 
 jobs:
 
+  # 2. Get pretrained cat model
+  
   cloneStyleGAN2Repo:
     resources:
       instance-type: C4
